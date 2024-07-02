@@ -1,0 +1,6 @@
+version: '2'
+
+services:
+  talker:
+    image: d60383b43392
+    command: python /media/evgen/84d47fa7-b810-42df-bb2b-f2610f59d6c8/evgen/Docker3/app/step.py
